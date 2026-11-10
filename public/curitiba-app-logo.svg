@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="100" viewBox="0 0 200 100" role="img" aria-labelledby="title">
+  <title id="title">Curitiba APP</title>
+  <rect width="200" height="100" rx="10" fill="#085196"/>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="800" fill="#30c3e3">
+    <text x="13" y="62" font-size="42" letter-spacing="-1.8">Curitiba</text>
+    <text x="114" y="86" font-size="35" letter-spacing="-1.4">app</text>
+  </g>
+  <path d="M127 13a17 17 0 0 1 17 17M127 19a11 11 0 0 1 11 11M127 25a5 5 0 0 1 5 5" fill="none" stroke="#fff" stroke-width="3.2"/>
+</svg>
